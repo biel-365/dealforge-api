@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dealforge-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17175737e21d76a0eec6d50851f60bdb1abfaafe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+420967e0c59d8105f8d82b2bed8b3bc54e9e8944")]
 [assembly: System.Reflection.AssemblyProductAttribute("dealforge-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dealforge-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
